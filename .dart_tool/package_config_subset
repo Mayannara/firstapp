@@ -366,6 +366,10 @@ yaml
 2.19
 file:///home/mayannara/.pub-cache/hosted/pub.dev/yaml-3.1.2/
 file:///home/mayannara/.pub-cache/hosted/pub.dev/yaml-3.1.2/lib/
+firstapp
+2.17
+file:///home/mayannara/personalProjects/firstapp/
+file:///home/mayannara/personalProjects/firstapp/lib/
 sky_engine
 3.0
 file:///home/mayannara/projects/dart-sdk/flutter/bin/cache/pkg/sky_engine/
@@ -382,8 +386,4 @@ flutter_web_plugins
 3.0
 file:///home/mayannara/projects/dart-sdk/flutter/packages/flutter_web_plugins/
 file:///home/mayannara/projects/dart-sdk/flutter/packages/flutter_web_plugins/lib/
-firstapp
-2.17
-file:///home/mayannara/projects/firstapp/
-file:///home/mayannara/projects/firstapp/lib/
 2
